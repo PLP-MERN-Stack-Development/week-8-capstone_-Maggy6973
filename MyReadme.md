@@ -4,6 +4,10 @@
 ## EMPLOYEE MANAGEMENT SYSTEM
 ### A web application that allows users to manage their employees' information.
 ### It includes features such as adding, editing, and deleting employees, as well as viewing all employees.
+### It also has the salaries and leaves dashboard to be able to add salaries to employees and also approve or reject the leave application in the Admin Dashboard
+### Also in the settings dashboard you can change your password
+### In the Employee Dashboard they can be able to view their salaries and also be able to apply for leaves and check the status   whether its been approved or rejected from the admin side .By default after Leave application it will be pending
+### Also the employees have a salary dashboard where they can view their salaries after the admin has added. It also has the date of payment
 ### The application is built using Node.js and Express.js, and is deployed on a cloud server.
 ### The database is managed using MongoDB, and the application uses a RESTful API to interact with the database.
 ### The application is designed to be user-friendly and easy to use, with clear and concise instructions for each feature.
