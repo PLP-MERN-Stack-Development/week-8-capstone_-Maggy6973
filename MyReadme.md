@@ -12,7 +12,7 @@
 ### The database is managed using MongoDB, and the application uses a RESTful API to interact with the database.
 ### The application is designed to be user-friendly and easy to use, with clear and concise instructions for each feature.
 ### The application is also designed to be scalable and reliable, with regular updates and maintenance to ensure that it continues to function properly.
-### The application is available at https://mern-stack-project-frontend-ten.vercel.app/
+### The application is available at https://mern-stack-project-frontend-ten.vercel.app/login
 ### The application uses the following technologies:
 ### - Node.js
 ### - Express.js
@@ -38,7 +38,7 @@
 #### Password: Okware123
 
 ## THE FRONTEND DEPLOYMENT LINK
-https://mern-stack-project-frontend-ten.vercel.app/  
+https://mern-stack-project-frontend-ten.vercel.app/login 
 
 ![alt text](image.png)
 
