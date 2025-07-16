@@ -1,5 +1,5 @@
 # EMPLOYMENT MANAGEMENT SYSTEM
-## DEVELOPER: MARGARET 
+## DEVELOPER: MARGARET SISIA 
 
 ## EMPLOYEE MANAGEMENT SYSTEM
 ### A web application that allows users to manage their employees' information.
