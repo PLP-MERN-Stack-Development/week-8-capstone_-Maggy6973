@@ -28,6 +28,15 @@
   #### THE FRONTED FOLDER IS NAMED AS EMS_PROJECT
   #### THE BACKEND FOLDER IS NAMED AS server
 
+# Logins
+### To login as employee
+#### Email: dedan@gmail.com
+#### Password: Dedan123
+
+### To login as admin
+#### Email: okware@gmail.com
+#### Password: Okware123
+
 ## THE FRONTEND DEPLOYMENT LINK
 https://mern-stack-project-frontend-ten.vercel.app/  
 
